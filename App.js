@@ -4,9 +4,7 @@ import { Container, Text } from 'native-base';
 import * as Font from 'expo-font';
 import { Ionicons } from '@expo/vector-icons';
 
-import HomeScreen from './screens/HomeScreen';
 import DrawerNavigator from './navigation/DrawerNavigation';
-
 
 export default class App extends React.Component {
 
